@@ -1,7 +1,7 @@
 # VPN Connectivity Issue – IT Support
 
 ## Description
-This project simulates a real-time IT support scenario where a user cannot connect to a VPN. It demonstrates step-by-step troubleshooting, resolution, and ticket closure, making it a portfolio-ready project for GitHub.
+This project simulates a real-time IT support scenario where a user cannot connect to a VPN. It demonstrates step-by-step troubleshooting, resolution, and ticket closure.
 
 ---
 
@@ -80,4 +80,5 @@ The user is unable to connect to the VPN, preventing access to network resources
 - Document all issues and resolutions
 
 ---
+
 
