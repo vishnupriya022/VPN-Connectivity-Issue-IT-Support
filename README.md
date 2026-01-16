@@ -18,8 +18,8 @@ The user is unable to connect to the VPN, preventing access to network resources
 - 
 Example:
 
-Ticket ID: 001
-Issue: Unable to connect to VPN
+Ticket ID: 001,
+Issue: Unable to connect to VPN,
 Status: Open
 
 ---
@@ -81,6 +81,7 @@ Status: Open
 - Document all issues and resolutions
 
 ---
+
 
 
 
