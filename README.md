@@ -15,16 +15,17 @@ The user is unable to connect to the VPN, preventing access to network resources
 ### Step 1: Ticket Received
 - User reports VPN connection failure.
 - Record ticket in Excel/Trello/Notion:
+- 
+Example:
 
-📸 Screenshot:  
-![Ticket Created](screenshots/step1-ticket-created.png)
+Ticket ID: 001
+Issue: Unable to connect to VPN
+Status: Open
 
 ---
 
 ### Step 2: User Verification
 - Verify user identity (username/email/employee ID) to ensure secure support.
-📸 Screenshot:  
-![User Verification](screenshots/step2-user-verification.png)
 
 ---
 
@@ -80,5 +81,6 @@ The user is unable to connect to the VPN, preventing access to network resources
 - Document all issues and resolutions
 
 ---
+
 
 
